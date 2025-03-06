@@ -14,7 +14,7 @@
   }
 
 .container{
-    max-width: 1200px;
+    max-width: 1250px;
     margin: 0 auto;
 }
 
@@ -27,7 +27,7 @@ font-size: 25px;
     }
 
     .swiper-button-next {
-        color:#db241b ;
+        color:#725654 ;
         }
 
      .swiper-button-prev {
@@ -60,7 +60,10 @@ display: flex;
 .menu-1 {
     margin-right: 180px;
 }
-
+  
+h1{
+    background-color: #199529;
+}
 .menu-2 {
     margin-right: 180px;
     display: flex;
@@ -83,7 +86,7 @@ display: flex;
     margin: 0 10px;
     height: 40px;
     width: 40px;
-    border: 1px solid #db241b;
+    border: 1px solid #af9d9c;
     border-radius: 50%;
 }
 
@@ -92,7 +95,7 @@ display: flex;
 }
 
 .social img {
-    margin: 8px 0 0 10px;
+    margin: 8px 0 0 15px;
 }
 
 .menu .navbar ul li {
@@ -103,7 +106,7 @@ display: flex;
 .menu .navbar ul li a {
     font-size: 18px;
     padding: 20px;
-    color: #ffffff;
+    color: #714141;
     display: block;
 }
 
