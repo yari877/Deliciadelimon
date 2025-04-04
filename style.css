@@ -88,7 +88,7 @@ display: flex;
 }
 
 .social:hover {
-    background-color: #db241b;
+    background-color: #0f9616;
 }
 
 .social img {
@@ -108,7 +108,7 @@ display: flex;
 }
 
 .menu .navbar ul li a:hover {
-    color: #db241b;
+    color: #512ba4;
 }
 
 #menu {
@@ -141,7 +141,7 @@ display: flex;
 
 .slider-txt h1 {
     font-size: 70px;
-    color: #ffffff;
+    color: #d8b5b5;
     text-transform: uppercase;
     font-weight: 800;
 }
@@ -191,7 +191,7 @@ display: flex;
 }
 
 .tabs label {
-    width: 15%;
+    width: 12%;
     order: 1;
     display: block;
     padding: 20px 0;
